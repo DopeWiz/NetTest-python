@@ -1,4 +1,4 @@
-# NetTest-python-
+# NetTest-python
 
 Checking internet connection
 
